@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faizan50518/Textutills.git/static/css/main.f855e6bc.css",
+    "main.js": "/Faizan50518/Textutills.git/static/js/main.31d002ed.js",
+    "static/js/453.ed3810f9.chunk.js": "/Faizan50518/Textutills.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Faizan50518/Textutills.git/index.html",
+    "main.f855e6bc.css.map": "/Faizan50518/Textutills.git/static/css/main.f855e6bc.css.map",
+    "main.31d002ed.js.map": "/Faizan50518/Textutills.git/static/js/main.31d002ed.js.map",
+    "453.ed3810f9.chunk.js.map": "/Faizan50518/Textutills.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.31d002ed.js"
+  ]
+}
